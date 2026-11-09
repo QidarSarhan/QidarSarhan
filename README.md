@@ -17,6 +17,7 @@ I help turn complex business needs into **clear requirements, focused MVPs, and 
 
 <p align="center">
   <picture>
+    <source media="(max-width: 640px)" srcset="assets/product-flow-mobile.png" />
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/product-flow-static.png" />
     <img src="assets/product-flow.gif" width="100%" alt="My product workflow: Discover the problem, define the scope, prioritize the work, and support delivery. Learnings feed back into discovery." />
   </picture>
