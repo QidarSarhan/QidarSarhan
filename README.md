@@ -23,9 +23,14 @@ I help turn complex business needs into **clear requirements, focused MVPs, and 
   </picture>
 </p>
 
-| **01 / Product discovery** | **02 / MVP & requirements** | **03 / Technical product ownership** |
-| :--- | :--- | :--- |
-| Understand the business need, users, workflows and constraints before choosing a solution. | Translate the problem into a focused MVP, PRD or BRD, user stories and acceptance criteria. | Clarify priorities and trade-offs with engineering, including APIs, data and integration requirements. |
+**01 / Product discovery**<br>
+Understand the business need, users, workflows and constraints before choosing a solution.
+
+**02 / MVP & requirements**<br>
+Translate the problem into a focused MVP, PRD or BRD, user stories and acceptance criteria.
+
+**03 / Technical product ownership**<br>
+Clarify priorities and trade-offs with engineering, including APIs, data and integration requirements.
 
 I care about the decisions behind the backlog: **what problem matters, what belongs in scope, and what the team needs to move forward**. I connect business analysis with engineering context to make those decisions explicit and keep stakeholders aligned.
 
@@ -47,12 +52,10 @@ Worked on subscription plans, trial flows and admin operations for a SaaS point-
 
 ## Product thinking, grounded in engineering
 
-| Focus | Where I contribute |
-| :--- | :--- |
-| **Product management & business analysis** | Product discovery, requirements gathering, MVP scoping, backlog prioritization, customer journeys and stakeholder alignment |
-| **Product documentation** | BRD, PRD, SRS, user stories, acceptance criteria and business rules |
-| **Technical collaboration** | PHP, Laravel, REST APIs, MySQL, database design and payment integrations |
-| **AI & automation** | AI-assisted research and documentation, prompt/context engineering, MCP and n8n workflows |
+- **Product management & business analysis:** product discovery, requirements gathering, MVP scoping, backlog prioritization, customer journeys and stakeholder alignment.
+- **Product documentation:** BRD, PRD, SRS, user stories, acceptance criteria and business rules.
+- **Technical collaboration:** PHP, Laravel, REST APIs, MySQL, database design and payment integrations.
+- **AI & automation:** AI-assisted research and documentation, prompt/context engineering, MCP and n8n workflows.
 
 <details>
 <summary><strong>Explore my earlier public engineering work</strong></summary>
