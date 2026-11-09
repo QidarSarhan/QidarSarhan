@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Qidar Sarhan — Product Manager</title>
+  <desc id="desc">Turning complexity into clear product decisions. An original diagram connects a user need to scope, priorities and delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102335"/><stop offset="1" stop-color="#0b1724"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#b3d5dc" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+  <path d="M0 366H1200" stroke="#39cfbd" stroke-opacity=".5"/>
+  <path d="M52 55H89" stroke="#48ddc5" stroke-width="4" stroke-linecap="round"/>
+  <text x="104" y="61" fill="#86e7d8" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">PRODUCT / ENGINEERING / CLARITY</text>
+  <text x="50" y="151" fill="#f3f6f8" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Qidar Sarhan</text>
+  <text x="53" y="194" fill="#e9c586" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="600">Product Manager</text>
+  <text x="53" y="247" fill="#d4dfe8" font-family="Segoe UI,Arial,sans-serif" font-size="25">Turning complexity into</text>
+  <text x="53" y="282" fill="#d4dfe8" font-family="Segoe UI,Arial,sans-serif" font-size="25">clear product decisions.</text>
+  <text x="53" y="334" fill="#91a6b8" font-family="Segoe UI,Arial,sans-serif" font-size="17">DISCOVERY  ·  MVP STRATEGY  ·  TECHNICAL PRODUCT OWNERSHIP</text>
+  <g fill="none" stroke="#4e7686" stroke-width="2">
+    <path d="M790 116H853V197H930"/><path d="M790 269H853V197"/><path d="M1040 197H1116V291"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="677" y="75" width="155" height="83" rx="13" fill="#183342" stroke="#355362"/>
+    <circle cx="703" cy="101" r="5" fill="#51ddc6"/>
+    <text x="720" y="107" fill="#a9c4d0" font-size="15">01 / LISTEN</text>
+    <text x="701" y="138" fill="#f0f5f7" font-size="23" font-weight="600">User needs</text>
+    <rect x="677" y="227" width="155" height="83" rx="13" fill="#183342" stroke="#355362"/>
+    <text x="700" y="259" fill="#a9c4d0" font-size="15">02 / CLARIFY</text>
+    <text x="700" y="290" fill="#f0f5f7" font-size="23" font-weight="600">Constraints</text>
+    <rect x="900" y="150" width="224" height="94" rx="15" fill="#154942" stroke="#50d8bf"/>
+    <text x="924" y="181" fill="#93ead6" font-size="15">03 / DECIDE</text>
+    <text x="924" y="216" fill="#f0fff9" font-size="22" font-weight="600">What matters next</text>
+    <circle cx="1116" cy="292" r="7" fill="#e9c586"/>
+    <text x="968" y="330" fill="#a7bbca" font-size="17">Build. Learn. Refine.</text>
+  </g>
+</svg>
